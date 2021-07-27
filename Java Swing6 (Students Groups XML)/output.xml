@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="1723308">
+        <name>Petrov</name>
+        <course>9</course>
+        <group>9</group>
+    </student>
+    <student id="1723317">
+        <name>Creative</name>
+        <course>10</course>
+        <group>10</group>
+    </student>
+    <student id="1723319">
+        <name>First</name>
+        <course>1</course>
+        <group>8</group>
+    </student>
+    <student id="1723320">
+        <name>ABC</name>
+        <course>8</course>
+        <group>8</group>
+    </student>
+    <student id="1723321">
+        <name>ABCDE</name>
+        <course>10</course>
+        <group>8</group>
+    </student>
+    <student id="1723324">
+        <name>Ivanov</name>
+        <course>7</course>
+        <group>6</group>
+    </student>
+    <student id="1725307">
+        <name>Sidorov</name>
+        <course>8</course>
+        <group>8</group>
+    </student>
+</students>
