@@ -1,0 +1,30 @@
+[
+  {
+    "category": "First",
+    "val": 2
+  },
+  {
+    "category": "Second",
+    "val": 13
+  },
+  {
+    "category": "Third",
+    "val": 5
+  },
+  {
+    "category": "Fourth",
+    "val": 40
+  },
+  {
+    "category": "Fifth",
+    "val": 3
+  },
+  {
+    "category": "Sixth",
+    "val": 9
+  },
+  {
+    "category": "More",
+    "val": 14
+  }
+]
